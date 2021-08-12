@@ -1,2 +1,7 @@
 # Swap_Infotech_Website
-Swap Infotech Website using HTML, CSS, Bootstrap.  
+Swap Infotech website with user friendly experience, fast and smooth access to   
+
+# Prerequisites
+* 
+*
+*
